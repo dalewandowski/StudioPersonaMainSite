@@ -45,3 +45,7 @@ Strona jest lekka, ładuje się błyskawicznie i nie wymaga ciężkich framework
 * `index.html` – główny kod strony, formularz i odtwarzacz.
 * `piosenki-config.js` – lista przykładowych utworów podpinana do odtwarzacza.
 * `regulamin.html` & `polityka-prywatnosci.html` – kwestie prawne i RODO.
+
+---
+
+STRONA JEST NIEAKTYWNA
